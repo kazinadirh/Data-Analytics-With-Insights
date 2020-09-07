@@ -42,7 +42,10 @@
       </ul>
       There are restrictions that like the user has to select month first and then day. First you have to select Region then countries of that particular selected region. This filtering of the country based on the region is done using auto filtering callbacks. Similarly State and then city has the same effect.
     </div>
-    <div><b>India Specific Map Plot -</b> The Region is fixed and set to South Asia and the country is set to India. In addition if one wants to apply filters based on Month, Day, State, City, AttackType the user can apply and see the updated results. This updation of the map is done using callbacks of the particular component based on its 'id'</div>
+    <div>
+      The World Map Plot has a legend beside it showing the attacktype whether Bombing, Armed Assault, etc.
+    </div>
+    <div><b>India Specific Map Plot -</b> The Region is fixed and set to South Asia and the country is set to India. In addition if one wants to apply filters based on Month, Day, State, City, AttackType the user can apply and see the updated results. This updation of the map is done using callbacks of the particular component based on its 'id'. The legend is same as the World Map PLot </div>
     
   </body>
 </html>
