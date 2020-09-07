@@ -11,8 +11,20 @@
     </div>
     <h5>Two Types of visualization have been used:</h5>
     <ul>
-      <li>World Map Plot</li>
-      <li>Area Chart</li>
+      <li>
+        World Map Plot
+        <ul>
+          <li>World Map Plot</li>
+          <li>India Specific Plot</li>
+        </ul>
+      </li>
+      <li>
+        Area Chart
+        <ul>
+          <li>World Area Chart - showing number of incident counts every year.</li>
+          <li>India Specific Area Chart - showing number of inident counts every year.</li>
+        </ul>
+      </li>
     </ul>
   </body>
 </html>
