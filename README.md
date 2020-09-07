@@ -46,6 +46,24 @@
       The World Map Plot has a legend beside it showing the attacktype whether Bombing, Armed Assault, etc.
     </div>
     <div><b>India Specific Map Plot -</b> The Region is fixed and set to South Asia and the country is set to India. In addition if one wants to apply filters based on Month, Day, State, City, AttackType the user can apply and see the updated results. This updation of the map is done using callbacks of the particular component based on its 'id'. The legend is same as the World Map PLot </div>
+    <div>
+      <h3>Chart Tool</h3>
+      <div>The Chart Tool has world chart tool and India specific chart tool</div>
+      <h3>Chart Tool UI</h3>
+      <div>
+        <ul>
+          <li>Incidents Grouped By- Region(by default)</li>
+          <li>Search Box Filter</li>
+          <li>Area Chart</li>
+        </ul>
+      </div>
+      <div>
+        The dropdown filter which groups incidents based on dropdown value. This is also the legend of the Area Chart.
+      </div>
+      <div>
+        The Search searches for the selected dropdown filter's content, whether it is contained in it or not. If it yields results then they are shown, if not the original legend is shown that has been selected from the dropdown.
+      </div>
+    </div>
     
   </body>
 </html>
