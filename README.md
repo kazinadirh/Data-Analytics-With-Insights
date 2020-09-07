@@ -63,6 +63,9 @@
       <div>
         The Search searches for the selected dropdown filter's content, whether it is contained in it or not. If it yields results then they are shown, if not the original legend is shown that has been selected from the dropdown.
       </div>
+      <div>
+        <b>India Specific Area Chart has the region and country selected as 'South Asia' and 'India' by default and then the dropdown filter is applied on it. If the user searches for something then it is showed or else shows the legend of dropdown selected filter.
+      </div>
     </div>
     
   </body>
