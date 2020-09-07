@@ -1,9 +1,8 @@
 <html>
   <head>
-    <title>Data-Analytics-With-Insights</title>
   </head>
   <body>
-    <h1>Python App</h1>
+    <h1>Data Analysis With Insights</h1>
   </body>
 </html>
 
