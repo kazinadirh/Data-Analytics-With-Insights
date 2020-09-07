@@ -8,6 +8,9 @@
     </h4>
     <div>
      Presenting a Web application using a Python Sciprt with Dash framework, displaying data visualization of global terrorism using a dataset of approximately 1,90,000 records. 
+      <div>
+        <a href="https://datainsights.herokuapp.com">Click Here</a> to view the hosted app on Heroku.
+      </div>
     </div>
     <h5>Two Types of visualization have been used:</h5>
     <ul>
@@ -64,7 +67,7 @@
         The Search searches for the selected dropdown filter's content, whether it is contained in it or not. If it yields results then they are shown, if not the original legend is shown that has been selected from the dropdown.
       </div>
       <div>
-        <b>India Specific Area Chart has the region and country selected as 'South Asia' and 'India' by default and then the dropdown filter is applied on it. If the user searches for something then it is showed or else shows the legend of dropdown selected filter.
+        <b>India Specific Area Chart -</b> has the region and country selected as 'South Asia' and 'India' by default and then the dropdown filter is applied on it. If the user searches for something then it is showed or else shows the legend of dropdown selected filter.
       </div>
     </div>
     
