@@ -9,7 +9,7 @@
     <div>
      Presenting a Web application using a Python Sciprt with Dash framework, displaying data visualization of global terrorism using a dataset of approximately 1,90,000 records. 
       <div>
-        <a href="https://datainsights.herokuapp.com">Click Here</a> to view the hosted app on Heroku.
+        <a href="https://datainsights.herokuapp.com">Click Here</a> to view the app hosted on Heroku.
       </div>
     </div>
     <h5>Two Types of visualization have been used:</h5>
