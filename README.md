@@ -26,7 +26,7 @@
         </ul>
       </li>
     </ul>
-    <h5>Map UI</h5>
+    <h3>Map UI</h3>
     <div>
       There are seven dropdown UI each of which plays the function of a filter for the world plot.
     </div>
@@ -40,7 +40,9 @@
         <li>City</li>
         <li>Attack-Type</li>
       </ul>
+      There are restrictions that like the user has to select month first and then day. First you have to select Region then countries of that particular selected region. This filtering of the country based on the region is done using auto filtering callbacks. Similarly State and then city has the same effect.
     </div>
+    <div>India Specific Map Plot. The Region is fixed and set to South Asia and the country is set to India. In addition if one wants to apply filters based on Month, Day, State, City, AttackType the user can apply and see the updated results. This updation of the map is done using callbacks of the particular component based on its 'id'</div>
     
   </body>
 </html>
